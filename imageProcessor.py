@@ -13,4 +13,4 @@ def _upload_file_and_show(e):
 
 upload_file = create_proxy(_upload_file_and_show)
 
-document.getElementById("file-upload").addEventListener("change", upload_file)
+document.getElementById("file").addEventListener("change", upload_file)
