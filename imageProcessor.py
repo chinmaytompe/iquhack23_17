@@ -9,7 +9,8 @@ def _upload_file_and_show(e):
 
     new_image = document.createElement('img')
     new_image.src = window.URL.createObjectURL(first_item)
-    document.getElementById("output_upload").appendChild(new_image)
+    
+    document.getElementById("image").src= new_image.src
 
 upload_file = create_proxy(_upload_file_and_show)
 
