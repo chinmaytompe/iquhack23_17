@@ -1,5 +1,19 @@
 import React, {Component} from "react";
-import {Button, Image, SafeAreaView, StyleSheet, Text, View} from "react-native";
+import {Button, Image, SafeAreaView, StyleSheet, Text, View, Dimensions} from "react-native";
+
+const windowWidth = Dimensions.get('window').width;
+const windowHeight = Dimensions.get('window').height;
+
+let imgDim = 150;
+let headerFontSize = 55;
+
+if (windowWidth > 1000) {
+    imgDim = 200;
+    headerFontSize = 70;
+} else {
+    imgDim = 100;
+    headerFontSize = 40;
+}
 
 //Importing the installed libraries
 import * as FS from "expo-file-system";
@@ -91,15 +105,15 @@ export default class App extends Component {
             <SafeAreaView style={styles.container}>
                 <View style={styles.headerBox}>
                     <Text style={styles.headerText}>
-                        QNN Image Classification
+                        QNN Image Recognition
                     </Text>
                     <Image source={require("./assets/logo.png")}
-                           style={{width: 200, height: 200}}/>
+                           style={{width: imgDim, height: imgDim}}/>
                 </View>
                 <View style={styles.container}>
                 {this.state.cameraRollPer ? (
                     <Button
-                        title="Pick From Gallery"
+                        title="Upload an Image"
                         disabled={this.state.disableButton}
                         onPress={async () => {
                             await this.pickMedia();
@@ -114,6 +128,11 @@ export default class App extends Component {
                 ) : (
                     <Text>Camera Roll Permission Required ! </Text>
                 )}
+
+                <View style={styles.container}>
+                    <Image source={require("./assets/test.jpg")}
+                           style={{width: imgDim * 2.5, height: imgDim * 2.5}}/>
+                </View>
                 </View>
             </SafeAreaView>
         );
@@ -125,12 +144,12 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: "#00000",
         alignItems: "center",
-        justifyContent: "center",
+        justifyContent:'space-evenly',
     },
     headerText: {
         color: '#ffffff',
-        fontSize: 50,
-
+        fontSize: headerFontSize,
+        fontWeight:'bold',
     },
     headerBox: {
         flex: 0.25,

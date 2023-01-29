@@ -5,4 +5,4 @@ CMD TO RUN FRONTEND:
 $ expo start
 
 CMD TO RUN BACKEND:
-$ flask run -h 
+$ flask run -h 10.189.37.233
