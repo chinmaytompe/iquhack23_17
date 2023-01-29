@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7775033-bc6e-4704-a0dd-a87607c5c88c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/00ad6181084ece1596e47b740fce5c305088908424387c8bfcd0ad1dd7c2e0de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/016bfaf4d63ecf43e8389a2a2c54600ddb99d727fcba51603eb36cf071118402.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/07c1e5b624f3cebf3c7d1bf85facaae0920d8f24abc585bcf76873c56663070c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/30b9660804beb3aade781edefad469497de196d0768a1580a796b0db94b0d38e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/3186cabffdd125dfe37b1bba5cb6aa1b79913adb1d1cac847d70000b0ac03f62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/394c27f3dac806a8a7d8cafb4e025f54ba0b4d9d7e70fbb69bdcbb640976c24e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/3dc70d16e5eb27f3ed17d2715c69edce41e3070c5c949a317dad61944f159dba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/42183eb9625f2568c3bc9a0e94f28f7b8000267714ebae3c502ead18d89d0e70.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/539a91d555d513df37b56e5e69f9a62fa105c4b829c2643e5aa5b777d7fe0241.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/5682cc746febe86c4d8d408d465a9ebc418299630a5742f6b74bff55100131be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/61047e370e9143f3e9cf19d6e2270a88dcd367ff8186898325c6578cae284e45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/6778853b4401a0315a32eeb75c70a2e8d7b29e7c0f3358e188fcd5072876f170.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/6b9ed48da29d5185e66dca6130cff10fe06a96be73e6e80dc60caef7730eb966.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/83c40cca623c3185d085225fc27bf9e11ea6fc5b9e10cce9b7468de7ab18e6cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/8a2f75e3f517d472e6a537f0fe0f4803e962ac3ef389753abb527eb01f850914.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/917a37b271c5fcb16b27d8857e50e194da965d96d6f89df7b0b4c36c488b8705.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/a294e5ce53e84a2ffab46abc00679eacaac8f1f4c996aa8ac9c4ac71c53cf862.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/a603c4d7cea2dad24507053e4b0fe4c4683641e56c57c499deaf2890a92a57e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/b04a1d3bcb00214ab791c58a6157bee92549399b955fc3039b9337cfe2e88cb6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/b6866e63c916f0bb214c5915b3d090b3cd92beda5448d6471dcc78203b33757b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/b989c217fa401ceea9eb1f795e1e6735c33d9d30288b5f2b663c2bbf90abe033.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/ba492f90354838c6232cb6ec270d56bd74a99b7ff0ab4fc81a28f6dc4d91508b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/bc8b5006f1ddb132fe5d9bce954928a84ff38de269c336c035c77daf580a6a94.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/c66a91b25b4d04409c5ce7e64e5cf612ccb98f1fac5b48bd4ef8b05c1c0d34a6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/c6997d8b06714b0fca9a755ff2bda8f77969e31834fc00523d444bb8407376fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/d03ca3301f9106a3094f152a44a4b5bc32c593c8416f59febfbf68536e8f62ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/d32d8346393a00334a12c8e7ad35dd3fb033447c1793e159d3ec323c8aee46eb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/d74da78831f80b7030332f6f1ab25e897c606dd1da73d4307b06fcce6e224f2b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/d78d540f1e70516185fb1ca78610efb467efb98bf1220f23d338dc8580f7f031.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/dc90d4c53ca42a3327ef494e9f79766fe730624b4af702db342fcc8db398c7f9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/e097aea79ddef42b3dd18cc5a8f477a9ab8bdd372d02643faa8366debe261b5f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/ecf1ed6c6c9764e6d2820bf1eb1335bf20b999fcfc83a87b5a548f4d0e16d707.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/f37b8989892d7828c88c7a2676cbc03b6dd5bdd0a665b5e305670f793675f742.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/faa96fff8031691a775cf876ef60eca9e895cb6fc6e361fbcff5ef00694870cd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.expo/web/cache/development/babel-loader/fb3afdf50febad73bee2e6433349b63006c22decb072ff488011879650391d09.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/assets/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/9.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/node_modules/.cache/web/web-development/index.pack.old" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KyRw4Gm9dDbQv6HKE3Rd8M2CeR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7775033-bc6e-4704-a0dd-a87607c5c88c" name="Changes" comment="" />
+      <created>1674945073532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674945073532</updated>
+      <workItem from="1674945076984" duration="124000" />
+      <workItem from="1674954643294" duration="938000" />
+      <workItem from="1674956592806" duration="3265000" />
+      <workItem from="1674968326713" duration="3313000" />
+      <workItem from="1674972030026" duration="6859000" />
+      <workItem from="1674980123911" duration="154000" />
+      <workItem from="1674982047775" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
